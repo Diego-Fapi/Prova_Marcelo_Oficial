@@ -1,0 +1,173 @@
+Nome: Diego
+Dificuldades: Difícil
+Palavra: ABACAXI
+Resultados: (Vitoria/Rerda/Interrompido) 
+Tentativas Restentes: 2
+Palpites:  A Y B X I C
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:29/06/2019 21:23:13 
+Data e Hora de Fim:29/06/2019 21:23:35
+
+
+Nome: Karam
+Dificuldades: Fácil
+Palavra: ABC
+Resultados: Vitória 
+Tentativas Restentes: 6
+Palpites:  A D B C
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:29/06/2019 21:28:17 
+Data e Hora de Fim:29/06/2019 21:28:30
+
+
+Nome: diego
+Dificuldades: Fácil
+Palavra: ABC
+Resultados: Vitória 
+Tentativas Restentes: 4
+Palpites:  A F E W B C
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:29/06/2019 21:28:42 
+Data e Hora de Fim:29/06/2019 21:28:55
+
+
+Nome: diego
+Dificuldades: Fácil
+Palavra: A
+Resultados: Derrota 
+Tentativas Restentes: 0
+Palpites:  M D E R Y U I
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:29/06/2019 21:29:00 
+Data e Hora de Fim:29/06/2019 21:29:16
+
+
+Nome: Diego
+Dificuldades: Difícil
+Palavra: BANANA
+Resultados: Vitória 
+Tentativas Restentes: 3
+Palpites:  A B N
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 00:39:51 
+Data e Hora de Fim:30/06/2019 00:40:07
+
+
+Nome: Gabriel
+Dificuldades: Fácil
+Palavra: KARAM
+Resultados: Vitória 
+Tentativas Restentes: 4
+Palpites:  K O I U A R M
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 00:40:34 
+Data e Hora de Fim:30/06/2019 00:40:51
+
+
+Nome: Teste
+Dificuldades: Difícil
+Palavra: ABC
+Resultados: Derrota 
+Tentativas Restentes: 0
+Palpites:  D H R
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 00:53:08 
+Data e Hora de Fim:30/06/2019 00:53:20
+
+
+Nome: null
+Dificuldades: Difícil
+Palavra: DEPRESSAO
+Resultados: Vitória 
+Tentativas Restentes: 3
+Palpites:  A M T D E P R S O
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 01:08:15 
+Data e Hora de Fim:30/06/2019 01:08:41
+
+
+Nome: gabriel
+Dificuldades: Difícil
+Palavra: DEPRE
+Resultados: Vitória 
+Tentativas Restentes: 3
+Palpites:  A D E P R
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 01:11:43 
+Data e Hora de Fim:30/06/2019 01:11:56
+
+
+Nome: a
+Dificuldades: Fácil
+Palavra: B
+Resultados: Vitória 
+Tentativas Restentes: 7
+Palpites:  L B
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 01:38:37 
+Data e Hora de Fim:30/06/2019 01:38:49
+
+
+Nome: aaaaaa
+Dificuldades: Médio
+Palavra: BATATA
+Resultados: Derrota 
+Tentativas Restentes: 5
+Palpites:  H F 0 0 0
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 01:53:03 
+Data e Hora de Fim:30/06/2019 01:53:25
+
+
+Nome: diego
+Dificuldades: Médio
+Palavra: TESTE
+Resultados: Vitória 
+Tentativas Restentes: 5
+Palpites:  E A T S
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 02:29:46 
+Data e Hora de Fim:30/06/2019 02:30:05
+
+
+Nome: diego
+Dificuldades: Difícil
+Palavra: MACACO
+Resultados: Vitória 
+Tentativas Restentes: 3
+Palpites:  H A C M O
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 02:35:43 
+Data e Hora de Fim:30/06/2019 02:36:04
+
+
+Nome: Teste
+Dificuldades: Difícil
+Palavra: DEPRESSAO
+Resultados: Vitória 
+Tentativas Restentes: 3
+Palpites:  A S D E Ç P M R O
+Interrupção: Numero de Imterrupções (Caso tenha) 
+Data e Hora de Inicio:30/06/2019 10:56:03 
+Data e Hora de Fim:30/06/2019 10:56:17
+
+
+
+
+Nome: Juliana
+
+Dificuldades: Médio
+
+Palavra: BRAND
+
+Resultados: Vitória 
+
+Tentativas Restentes: 5
+
+Palpites:  A R M B N D
+
+Interrupção: Numero de Imterrupções (Caso tenha) 
+
+Data e Hora de Inicio:30/06/2019 11:48:43 
+
+Data e Hora de Fim:30/06/2019 11:48:52
